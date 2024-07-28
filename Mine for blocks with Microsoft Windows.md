@@ -1,7 +1,7 @@
 Tutorial - Mine for blocks with Microsoft Windows
 Mine for blocks with your Windows wallet and the following instructions.
 
-Click here to download the file neiro-qt-windows.zip.
+download the file neiro-qt-windows.zip.
 
 Open File Explorer and go to your downloads directory.
 
